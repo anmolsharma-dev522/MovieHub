@@ -1,0 +1,64 @@
+  const movies = [
+    {
+      id: 1,
+    title : "Interstellar",
+    rating : 8.7,
+    image: "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+  },
+  {
+    id: 2,
+    title : "The Conjuring",
+    rating : 7.2,
+    image : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4QDQ02jnYAmtrlZqaWAj-NN618hkj7aIT7qI5bYzeNFkGhqW7"
+  },
+  {
+    id: 3,
+    title : "Attonement",
+    rating: 7.8,
+    image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtZXO42u2zRuXNUjq5PbGz4iJgyIuxN0f2BlvuUlBnoIGHAzXr",
+  },
+  {
+    id: 4,
+    title : "The Ring",
+    rating: 8.0,
+    image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-6Hl4W72yvYPMTdbZB8mb8hTo-JogCUJMwMF_i45QW3aJ91Wk",
+  },
+  {
+    id: 5,
+    title : "The Nun",
+    rating: 5.4,
+    image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk3MBwojo9tH6ri6znDbTkdc9e9r4Wuc9AHoBG5VP5kkgB6pdB",
+  },
+  {
+    id: 6,
+    title : "Money Heist",
+    rating: 8.6,
+    image: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVT28hbIianT2cWHA_zyg17yzAQRfq5FaSeyG05RU4HdEXJ6yY",
+  },
+  {
+    id: 7,
+    title : "Wednesday",
+    rating: 8.2,
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJOOBsSXu5RmCS5Y_hvl_g6zaznOgE6VD2Teh3dqqfeiTa00Vk",
+  },
+  {
+    id: 8,
+    title : "The Ring 2",
+    rating: 8.1,
+    image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCrygwJp8CSHRV6brScQQczXJpUsqA1ZUc52kNqcNEKRMF8ZYV",
+  },
+];
+
+
+ // <div>
+      // <h1>MovieHub</h1>
+    //   <h3 style={{textAlign:'center',margin:'10px'}}>Popular Movies</h3>
+    //   <div className="movie-container">
+    //   {movies.map((movie) => (
+    //     <MovieCard
+    //     key={movie.id}
+    //     movie={movie}
+    //     />
+    //   ))}
+    // </div>
+    // </div>
